@@ -1,7 +1,8 @@
-# Data-types-in-Python #
+# Python for Data Science - IBM course #
+## Data-types-in-Python ##
 
 
-## Objectives : ##
+### Objectives : ###
 - Write basic code in Python
 - Work with various types of data in Python
 - Convert the data from one type to another
